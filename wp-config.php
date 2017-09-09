@@ -18,6 +18,9 @@
  * @package WordPress
  */
 
+ //** Traduzindo woocommerce **//
+ define('WPLANG', 'pt_BR');
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'elder_db');
